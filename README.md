@@ -3,9 +3,10 @@
 
 
 ## General Information
-This is a practice project for The Odin Project: Foundations course. 
+This project is a course assignment for <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">The Odin Project</a>
+<p>View the assignment<a href="https://www.theodinproject.com/lessons/foundations-recipes">here</a>
 
-The skills being practiced here include:
+The skills being practiced include:
 - Writing basic HTML
 - Using bash commands and git workflow
 - Deployment using Github Pages
@@ -15,11 +16,5 @@ The skills being practiced here include:
 Project is: _in progress_ 
 
 Future iterations:
-- Iteration 2: Recipe page
 - Iteration 3: Recipe page content
 - Iteration 4: Add more recipes
-
-
-## Acknowledgements
-This project was completed as part of The Odin Project 
-View the assignment here: https://www.theodinproject.com/lessons/foundations-recipes
