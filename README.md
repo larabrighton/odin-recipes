@@ -2,9 +2,8 @@
 > Sharing my mediocre recipes with the world.
 
 
-## General Information
 This project is a course assignment for <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">The Odin Project</a>
-<p>View the assignment<a href="https://www.theodinproject.com/lessons/foundations-recipes">here</a>
+<p>View the assignment <a href="https://www.theodinproject.com/lessons/foundations-recipes">here</a>
 
 The skills being practiced include:
 - Writing basic HTML
@@ -12,8 +11,7 @@ The skills being practiced include:
 - Deployment using Github Pages
 
 
-## Project Status
-Project is: _in progress_ 
+Project is IN PROGRESS
 
 Future iterations:
 - Iteration 3: Recipe page content
